@@ -8,4 +8,8 @@ When the application is run, the space bar is used to move. There are also tempo
 
 The movement has wrap around and will loop around all indexes of the board. Once at the final index, it will loop around.
 
+## Preview:
+
+![img](preview.gif "A preview of the prototype")
+
 Note: the prototype uses Unity 2018.4.9f1 (A stable long term supported build of unity)
