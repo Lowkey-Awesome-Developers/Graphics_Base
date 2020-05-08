@@ -6,7 +6,7 @@ The prototype gives a visualisation of how the 3d version of the game may look. 
 
 When the application is run, the space bar is used to move. There are also temporary images to represent different parts of the board.
 
-The movement uses a wrap around. Once at the final index, it will loop around to the starting indexes.
+The movement uses a wrap around. Once at the final index, it will loop around to the starting indeces.
 
 ## Preview:
 
