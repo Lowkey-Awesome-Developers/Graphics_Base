@@ -1,5 +1,7 @@
 # Unity Prototype:
 
+The aim of this prototype was to produce a visual representation of what our 3d game might look like. This was to be potentially send to the client if we proceeded further with the 3d implementation.
+
 The prototype consists of movement around the board. The player will move up to 6 spaces around the board.
 
 The prototype gives a visualisation of how the 3d version of the game may look. It uses 3d models and a board compromised of multible objects each representing a different square.
